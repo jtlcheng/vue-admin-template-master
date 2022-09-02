@@ -21,7 +21,7 @@
       <el-table-column prop="id" width="50" label="序号"/>
       <el-table-column prop="hosname" label="医院名称"/>
       <el-table-column prop="hoscode" label="医院编号"/>
-      <el-table-column prop="apiUrl" label="api基础路径"width="200"/>
+      <el-table-column prop="apiUrl" label="api基础路径" width="200"/>
       <el-table-column prop="contactsName" label="联系人姓名"/>
       <el-table-column prop="contactsPhone" label="联系人手机"/>
       <el-table-column label="状态" width="80">
