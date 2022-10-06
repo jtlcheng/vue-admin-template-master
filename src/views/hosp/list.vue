@@ -88,7 +88,7 @@
       :current-page="page"
       :total="total"
       :page-size="limit"
-      :page-sizes="[5,10,20,30,40,50,100]"
+      :page-sizes="[1,5,10,20,30,40,50,100]"
       style="padding:30px 0;text-align:center;"
       layout="sizes,prev,pager,next,jumper,->,total,slot"
       @current-change="fetchData"
